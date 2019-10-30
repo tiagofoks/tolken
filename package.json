@@ -27,7 +27,7 @@
     "kerberos": "^1.1.2",
     "mongodb": "^3.2.6",
     "mongodb-core": "^3.2.6",
-    "mongoose": "^5.5.12",
+    "mongoose": "^5.7.5",
     "node-gyp": "^4.0.0",
     "nodemon": "^1.19.1",
     "openwhisk": "^3.19.0",
