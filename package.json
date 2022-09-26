@@ -30,7 +30,7 @@
     "mongoose": "^5.5.12",
     "node-gyp": "^4.0.0",
     "nodemon": "^1.19.1",
-    "openwhisk": "^3.19.0",
+    "openwhisk": "^3.21.7",
     "validator": "^11.0.0",
     "watson-developer-cloud-async": "^2.28.2"
   }
